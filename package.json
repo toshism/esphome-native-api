@@ -1,15 +1,15 @@
 {
-  "name": "@2colors/esphome-native-api",
+  "name": "@toshism/esphome-native-api",
   "version": "1.3.2",
   "license": "MIT",
-  "description": "esphome native api client",
+  "description": "tosh's esphome native api client",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Test passed\""
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/twocolors/esphome-native-api.git"
+    "url": "git+https://github.com/toshism/esphome-native-api.git"
   },
   "keywords": [
     "esphome",
@@ -18,9 +18,9 @@
   ],
   "author": "D",
   "bugs": {
-    "url": "https://github.com/twocolors/esphome-native-api.git"
+    "url": "https://github.com/toshism/esphome-native-api.git"
   },
-  "homepage": "https://github.com/twocolors/esphome-native-api#readme",
+  "homepage": "https://github.com/toshism/esphome-native-api#readme",
   "dependencies": {
     "@richardhopton/noise-c.wasm": "^0.5.0",
     "google-protobuf": "^3.21.2",
